@@ -2,7 +2,7 @@
 let blueImg;
 let blueDots = [];
 let relaxSpeed = 0.1;
-let sampleStep = 10; // smaller = more dots, larger = faster
+let sampleStep = 15; // smaller = more dots, larger = faster
 let brightnessThreshold = 60; // tuned threshold for blue.png
 
 function preload() {
