@@ -2,7 +2,7 @@
 let redImg, blueImg;
 let redDots = [], blueDots = [];
 let relaxSpeed = 0.1;
-let sampleStep = 4;
+let sampleStep = 10;
 let brightnessThreshold = 60;
 
 function preload() {
